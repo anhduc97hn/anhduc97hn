@@ -3,7 +3,7 @@
 ## About me: 
 
 - 🌱 I'm graduated with an investment degree from a very top local university in Vietnam. 
-- 😻 I recently took a full-stack web development course and you can check out my final project called Mentor Match which is pinned in my repo. 
+- 😻 I recently took a full-stack web development course and you can check out my graduation project **Mentor Match** which is pinned in my repo. 
 - ⚡ I’m switching my career and looking for entry level opportunities in web development. 
 
 ## Languages and Tools:
