@@ -2,8 +2,7 @@
 
 ## About me: 
 
-- 🌱 I graduated with a bachelor degree of banking and investment from a top business school in my country. 
-- 😻 I recently took a full-stack web development course and I'm proud to share with you my graduation project **Mentor Match** which is pinned in my repo. 
+- 🌱 I recently took a full-stack web development course and I'm proud to share with you my graduation project **Mentor Match** which is pinned in my repo. 
 - ⚡ I’m interested in building user-friendly and meaningful web applications. 
 
 ## Languages and Tools:
