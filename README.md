@@ -1,8 +1,6 @@
 # Hey, I'm Duc Nguyen 👋
 
 ## About me: 
-
-- 🌱 I recently took a full-stack web development course and I'm proud to share with you my graduation project **Mentor Match** which is pinned in my repo. 
 - ⚡ I’m interested in building user-friendly and meaningful web applications. 
 
 ## Languages and Tools:
@@ -30,3 +28,4 @@
 ![Duc's github stats](https://github-readme-stats.vercel.app/api?username=anhduc97hn&count_private=true&show_icons=true&theme=onedark)
 
 </details>
+
